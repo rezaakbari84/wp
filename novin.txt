@@ -1,3 +1,0 @@
-database name: novindb
-username: novinadmin
-password: iVAzG10hny06QXg5
